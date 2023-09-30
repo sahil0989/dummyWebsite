@@ -1,0 +1,20 @@
+{
+  "name": "practise-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "vite",
+    "build:tailwind": "tailwindcss build input.css -o output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "vite": "^4.4.7"
+  }
+}
